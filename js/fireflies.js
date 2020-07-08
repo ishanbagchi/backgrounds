@@ -9,7 +9,7 @@ var link = document.createElement('link');
 // set the attributes for link element  
 link.rel = 'stylesheet';  
 link.type = 'text/css'; 
-link.href = 'https://ishanbagchi.github.io/backgrounds/css/noise-transparent.css';  
+link.href = 'https://ishanbagchi.github.io/backgrounds/css/fireflies.css';  
 
 // Append link element to HTML head 
 head.appendChild(link);  
