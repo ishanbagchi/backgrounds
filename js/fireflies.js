@@ -13,3 +13,6 @@ link.href = 'https://ishanbagchi.github.io/backgrounds/css/fireflies.css';
 
 // Append link element to HTML head 
 head.appendChild(link);  
+
+// Set class name in body tag
+document.getElementsByTagName("body")[0].setAttribute("class", "fireflies");

@@ -1,8 +1,8 @@
-html, body {
+html, .fireflies {
     height: 100%;
   }
   
-  body {
+  .fireflies {
     background: url(https://ishanbagchi.github.io/backgrounds/assets/img/forest-night.jpg);
     background-size: cover;
   }

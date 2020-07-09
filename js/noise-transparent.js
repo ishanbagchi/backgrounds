@@ -13,3 +13,6 @@ link.href = 'https://ishanbagchi.github.io/backgrounds/css/noise-transparent.css
 
 // Append link element to HTML head 
 head.appendChild(link);  
+
+// Set class name in body tag
+document.getElementsByTagName("body")[0].setAttribute("class", "noise-transparent");
